@@ -48,6 +48,8 @@ median_house_value
 ocean_proximity
 
 
+![](https://github.com/kasettypurush/website/blob/master/images/housing1.png)
+![](https://github.com/kasettypurush/website/blob/master/images/housing2.png)
 
 # Project 3 
 
@@ -103,3 +105,5 @@ Find out the distribution of employees by the education field
 Give a bar chart for the number of married and unmarried employees
 
 Build up a logistic regression model to predict which employees are likely to attrite.
+
+![](https://github.com/kasettypurush/website/blob/master/images/ibm.png)
