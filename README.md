@@ -53,7 +53,7 @@ ocean_proximity
 
 
 
-### IBM-HR-Analytics-Employee-Attrition-Modeling :
+### [IBM-HR-Analytics-Employee-Attrition-Modeling :](https://github.com/kasettypurush/IBM-HR-Analytics-Employee-Attrition-Modeling)
 
 
 DESCRIPTION
