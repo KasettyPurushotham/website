@@ -21,7 +21,7 @@ aircraft make name , state name , aircraft model name , text information , fligh
 
 ### [-Housing-in-California:](https://github.com/kasettypurush/-Housing-in-California)
 
-Context This is the dataset used in the second chapter of Aurélien Géron's recent book 'Hands-On Machine learning with Scikit-Learn and TensorFlow'. It serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables and sits at an optimal size between being to toyish and too cumbersome.
+Context : This is the dataset used in the second chapter of Aurélien Géron's recent book 'Hands-On Machine learning with Scikit-Learn and TensorFlow'. It serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables and sits at an optimal size between being to toyish and too cumbersome.
 
 The data contains information from the 1990 California census. So although it may not help you with predicting current housing prices like the Zillow Zestimate dataset, it does provide an accessible introductory dataset for teaching people about the basics of machine learning.
 
@@ -58,7 +58,7 @@ ocean_proximity
 ### [IBM-HR-Analytics-Employee-Attrition-Modeling :](https://github.com/kasettypurush/IBM-HR-Analytics-Employee-Attrition-Modeling)
 
 
-DESCRIPTION
+DESCRIPTION :
 
 IBM is an American MNC operating in around 170 countries with major business vertical as computing, software, and hardware. Attrition is a major risk to service-providing organizations where trained and experienced people are the assets of the company. The organization would like to identify the factors which influence the attrition of employees.
 
