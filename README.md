@@ -13,9 +13,6 @@ aircraft make name , state name , aircraft model name , text information , fligh
 - Clean the dataset and replace the fatal flag NaN with “No” 
 - Find the aircraft types and their occurrences in the dataset 
 - Remove all the observations where aircraft names are not available 
--[bulma-0.9.4.zip](https://github.com/kasettypurush/website/files/10974994/bulma-0.9.4.zip)
-[bulma-0.9.4.zip](https://github.com/kasettypurush/website/files/10974996/bulma-0.9.4.zip)
- Display the observations where fatal flag is “Yes”
 
 
 
@@ -29,25 +26,25 @@ The data contains information from the 1990 California census. So although it ma
 
 Content The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. Be warned the data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
 
-longitude
+- longitude
 
-latitude
+- latitude
 
-housing_median_age
+- housing_median_age
 
-total_rooms
+- total_rooms
 
-total_bedrooms
+- total_bedrooms
 
-population
+- population
 
-households
+- households
 
-median_income
+- median_income
 
-median_house_value
+- median_house_value
 
-ocean_proximity
+- ocean_proximity
 
 
 ![](https://github.com/kasettypurush/website/blob/master/images/housing1.png)
@@ -73,33 +70,33 @@ DESCRIPTION :
 
 IBM is an American MNC operating in around 170 countries with major business vertical as computing, software, and hardware. Attrition is a major risk to service-providing organizations where trained and experienced people are the assets of the company. The organization would like to identify the factors which influence the attrition of employees.
 
-Data Dictionary
+- Data Dictionary
 
-Age: Age of employee
+- Age: Age of employee
 
-Attrition: Employee attrition status
+- Attrition: Employee attrition status
 
-Department: Department of work
+- Department: Department of work
 
-DistanceFromHome
+- DistanceFromHome
 
-Education: 1-Below College; 2- College; 3-Bachelor; 4-Master; 5-Doctor;
+- Education: 1-Below College; 2- College; 3-Bachelor; 4-Master; 5-Doctor;
 
-EducationField
+- EducationField
 
-EnvironmentSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
+- EnvironmentSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
 
-JobSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
+- JobSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
 
-MaritalStatus
+- MaritalStatus
 
-MonthlyIncome
+- MonthlyIncome
 
-NumCompaniesWorked: Number of companies worked prior to IBM
+- NumCompaniesWorked: Number of companies worked prior to IBM
 
-WorkLifeBalance: 1-Bad; 2-Good; 3-Better; 4-Best;
+- WorkLifeBalance: 1-Bad; 2-Good; 3-Better; 4-Best;
 
-YearsAtCompany: Current years of service in IBM
+- YearsAtCompany: Current years of service in IBM
 
 Analysis Task:
 
@@ -107,14 +104,14 @@ Import attrition dataset and import libraries such as pandas, matplotlib.pyplot,
 Exploratory data analysis
 Find the age distribution of employees in IBM
 
-Explore attrition by age
+- Explore attrition by age
 
-Explore data for Left employees
+- Explore data for Left employees
 
-Find out the distribution of employees by the education field
+- Find out the distribution of employees by the education field
 
-Give a bar chart for the number of married and unmarried employees
+- Give a bar chart for the number of married and unmarried employees
 
-Build up a logistic regression model to predict which employees are likely to attrite.
+- Build up a logistic regression model to predict which employees are likely to attrite.
 
 ![](https://github.com/kasettypurush/website/blob/master/images/ibm.png)
