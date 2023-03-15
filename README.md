@@ -10,10 +10,12 @@ DESCRIPTION Problem: Analyze the Federal Aviation Authority (FAA) dataset using 
 
 aircraft make name , state name , aircraft model name , text information , flight phase , event description type , fatal flag ,
 
-1 . Clean the dataset and replace the fatal flag NaN with “No” 
-2 . Find the aircraft types and their occurrences in the dataset 
-3 . Remove all the observations where aircraft names are not available 
-4 . Display the observations where fatal flag is “Yes”
+- Clean the dataset and replace the fatal flag NaN with “No” 
+- Find the aircraft types and their occurrences in the dataset 
+- Remove all the observations where aircraft names are not available 
+-[bulma-0.9.4.zip](https://github.com/kasettypurush/website/files/10974994/bulma-0.9.4.zip)
+[bulma-0.9.4.zip](https://github.com/kasettypurush/website/files/10974996/bulma-0.9.4.zip)
+ Display the observations where fatal flag is “Yes”
 
 
 
