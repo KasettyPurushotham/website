@@ -115,3 +115,7 @@ Find the age distribution of employees in IBM
 - Build up a logistic regression model to predict which employees are likely to attrite.
 
 ![](https://github.com/kasettypurush/website/blob/master/images/ibm.png)
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
