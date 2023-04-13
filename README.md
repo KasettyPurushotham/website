@@ -175,7 +175,7 @@ Model Building and Evaluation
 
 
 
-# [Project 6 - Hate_Speech_Detection- :](https://github.com/kasettypurush/Iris_Flower-Classification)
+# [Project 6 - Iris_Flower-Classification:](https://github.com/kasettypurush/Iris_Flower-Classification)
 
 ### Title: Iris Plants Database Updated Sept 21 by C.Blake - Added discrepency information
 
